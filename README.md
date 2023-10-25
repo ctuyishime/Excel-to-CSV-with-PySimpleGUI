@@ -1,9 +1,10 @@
 # Excel-to-CSV-with-PySimpleGUI
 
+A straightforward and intuitive tool to convert Excel files to CSV format, leveraging Python and the PySimpleGUI module.
+
 
 ![Screenshot of Excel-to-CSV-with-PySimpleGUI](Screenshot.png)
 
-A straightforward and intuitive tool to convert Excel files to CSV format, leveraging Python and the PySimpleGUI module.
 
 ## 🌟 Features
 
